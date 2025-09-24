@@ -1,6 +1,6 @@
 # Hi there 👋
 
-There are not really many projects of mine on GitHub, but I hope there will be more of them soon! :) *I've got what to show......*
+There are not really many projects of mine on GitHub, but I hope there will be more of them soon! :) *I have sth to show......)*
 
 - 👨‍💻 I’m studying Computer Science and plan to become AI-programer...
 - ✨ I want to develop and have the opportunity to travel in a few years!
