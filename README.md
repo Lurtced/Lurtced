@@ -2,7 +2,7 @@
 
 There are not really many projects of mine on GitHub, but I hope there will be more of them soon! :) *I have sth to show......)*
 
-- 👨‍💻 **I’m studying Computer Science** and plan to become AI-programer...
+- 👨‍💻 **Computer Science** and **AI** are my future job...
 - ✨ I want to develop and have the opportunity to travel in a few years!
 - 🔭 I'm an ambassador of the **IT Cluster at Gazprom Neft**.
 - ⚡ I also hope to become a member of **EESTEC** (Electrical Engineering STudents' European assoCiation) soon.
