@@ -19,11 +19,11 @@ The author is not responsible for how third parties may use these materials.
 ## Educational materials
 If you came here for educational materials, here are some links you might like:
 ### MCS (МКН)
-- 1 sem C labs: [https://github.com/Lurtced/mcs-sem1-aap-labs]
-- 2 sem C labs: [https://github.com/Lurtced/mcs-sem2-paa-labs]
-- 2 sem C coursework (tictactoe): [https://github.com/Lurtced/mcs-sem2-coursework]
-- 3 sem C++ labs: [https://github.com/Lurtced/mcs-sem3-oop-labs]
-- 3 sem discrete math labs: [https://github.com/Lurtced/mcs-sem3-dismath-labs]
+- 1 sem C labs: https://github.com/Lurtced/mcs-sem1-aap-labs
+- 2 sem C labs: https://github.com/Lurtced/mcs-sem2-paa-labs
+- 2 sem C coursework (tictactoe): https://github.com/Lurtced/mcs-sem2-coursework
+- 3 sem C++ labs: https://github.com/Lurtced/mcs-sem3-oop-labs
+- 3 sem discrete math labs: https://github.com/Lurtced/mcs-sem3-dismath-labs
 
 
 
