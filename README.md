@@ -12,8 +12,8 @@ If you want to contact me, I've got some links in my profile, check them out ;)
 
 ___
 ## Disclaimer
-The materials in this profile and my repositories are published **for personal use and educational purposes only**.  
-Educational materials (e.g. lab assignments) are intended for learning and reference and **must not** be used for cheating or violating academic integrity.  
+The materials in this profile and my repositories are published for personal use and educational purposes only.  
+Educational materials (e.g. lab assignments) are intended for learning and reference and must not be used for cheating or violating academic integrity.  
 The author is not responsible for how third parties may use these materials.
 
 <!--
