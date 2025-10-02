@@ -4,9 +4,9 @@ There are not really many projects of mine on GitHub, but I hope there will be m
 
 - 👨‍💻 **Computer Science** and **AI** are my future job...
 - 🔭 I'm a **student** and I schedule to start my **career in 2026**.
-- ✨ I want to **develop** and have the opportunity to travel in a few years!
-- ⚡ I'm an ambassador of the **IT Cluster at Gazprom Neft**.
-- 💬 I also hope to become a member of **EESTEC** (Electrical Engineering STudents' European assoCiation) soon.
+- ✨ I want to develop and have the opportunity to travel in a few years!
+- ⚡ I'm an ambassador of the _**IT Cluster at Gazprom Neft**_.
+- 💬 I also hope to become a member of _**EESTEC**_ (Electrical Engineering STudents' European assoCiation) soon.
 
 If you want to contact me, I've got some links in my profile, check them out ;)
 
